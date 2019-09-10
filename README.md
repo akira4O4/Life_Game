@@ -12,5 +12,5 @@
 3.生命会繁殖，如果一个空位置周围有3个生命，它就在回合结束时获得生命。  
 4.如果生命周围有2、3个生命，它在下一个回合结束时保持原样。  
 
-##运行效果图：  
+## 运行效果图：  
 ![Image](https://github.com/omega-Lee/Life_Game/blob/master/game.jpg)
