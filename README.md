@@ -13,4 +13,4 @@
 4.如果生命周围有2、3个生命，它在下一个回合结束时保持原样。  
 
 ##运行效果图：  
-![Image](http://github.com/omega-Lee/Life_Game/raw/master/game.jpg)
+![Image](https://github.com/omega-Lee/Life_Game/blob/master/game.jpg)
